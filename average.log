@@ -1,0 +1,6 @@
+[2025-10-24 10:55:34] [ INFO ] [DentistClinic:66] 1, 10001, Juan
+[2025-10-24 10:55:34] [ INFO ] [DentistClinic:66] 2, 10002, Alberto
+[2025-10-24 10:55:34] [ WARN ] [DentistClinic:79] Se actualizó el ID 2 en la base de datos
+[2025-10-24 10:55:34] [ WARN ] [DentistClinic:91] Se borró el registró 1 en la base de datos
+[2025-10-24 10:55:34] [ INFO ] [DentistClinic:125] 2, 10002, Matias
+[2025-10-24 10:55:34] [ INFO ] [DentistClinic:148] 2, 10002, Matias
